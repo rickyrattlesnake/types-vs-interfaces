@@ -47,7 +47,7 @@ namespace InterfaceExamples {
   }
 
   // classes can extend
-  // -- N/Aclass ClassPoint2 extends Point {}
+  // -- N/A class ClassPoint2 extends Point {}
 
   // declaration merging (avoid this)
   interface MergedPoint {
